@@ -29,6 +29,3 @@ def pd(number) :
         print(divides)
     else :
         print("isPerfectNumber : false")
-
-
-pd(496)
